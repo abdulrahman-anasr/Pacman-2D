@@ -1,0 +1,12 @@
+bonus: cherries
+pacmanspeed: 0.80
+ghostspeed: 0.75
+ghosttunnel: 0.40
+elroy1speed: 0.80
+elroy1dots: 20
+elroy2speed: 0.85
+elroy2dots: 10
+frightpacmanspeed: 0.90
+frightghostspeed: 0.50
+frighttime: 6
+numberofflashes: 5

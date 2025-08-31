@@ -1,0 +1,12 @@
+bonus: peach
+pacmanspeed: 0.90
+ghostspeed: 0.85
+ghosttunnel: 0.45
+elroy1speed: 0.90
+elroy1dots: 40
+elroy2speed: 0.95
+elroy2dots: 20
+frightpacmanspeed: 0.95
+frightghostspeed: 0.55
+frighttime: 3
+numberofflashes: 5

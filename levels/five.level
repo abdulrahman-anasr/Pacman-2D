@@ -1,0 +1,12 @@
+bonus: apple
+pacmanspeed: 1.00
+ghostspeed: 0.95
+ghosttunnel: 0.50
+elroy1speed: 1.00
+elroy1dots: 40
+elroy2speed: 1.05
+elroy2dots: 20
+frightpacmanspeed: 1.00
+frightghostspeed: 0.60
+frighttime: 2
+numberofflashes: 5
